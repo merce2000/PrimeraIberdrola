@@ -120,11 +120,11 @@
         "id": 14,
         "nombre": "UD Granadilla Tenerife",
         "imagen": "https://i.ibb.co/PhCZm7n/udt.png",
-        "PJ": 8,
-        "G": 2,
+        "PJ": 9,
+        "G": 3,
         "E": 4,
         "P": 2,
-        "Pts": 10
+        "Pts": 13
     }, {
         "id": 15,
         "nombre": "Valencia CF",
@@ -138,10 +138,10 @@
         "id": 16,
         "nombre": "Villareal",
         "imagen": "https://i.ibb.co/wQYbNq4/villareal.png",
-        "PJ": 8,
+        "PJ": 9,
         "G": 1,
         "E": 1,
-        "P": 6,
+        "P": 7,
         "Pts": 4
     }]
 }
