@@ -21,7 +21,7 @@
         "id": 3,
         "nombre": "Atlético de Madrid",
         "imagen": "https://i.ibb.co/rQ0HmB7/atm.png",
-        "PJ": 16,
+        "PJ": 17,
         "G": 10,
         "E": 5,
         "P": 2,
@@ -61,7 +61,7 @@
         "G": 7,
         "E": 5,
         "P": 6,
-        "Pts": 25
+        "Pts": 23
     }, {
         "id": 6,
         "nombre": "Madrid CFF",
@@ -88,7 +88,7 @@
         "G": 8,
         "E": 2,
         "P": 6,
-        "Pts": 25
+        "Pts": 26
     }, {
         "id": 10,
         "nombre": "Real Sociedad",
