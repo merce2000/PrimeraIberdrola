@@ -3,145 +3,145 @@
         "id": 1,
         "nombre": "Deportivo Alavés",
         "imagen": "https://i.ibb.co/5j590tt/alaves.png",
-        "PJ": 18,
+        "PJ": 19,
         "G": 7,
-        "E": 4,
+        "E": 5,
         "P": 7,
-        "Pts": 25
+        "Pts": 26
     }, {
         "id": 2,
         "nombre": "Athletic Club",
         "imagen": "https://i.ibb.co/VBSNb8p/ath.png",
-        "PJ": 17,
-        "G": 8,
+        "PJ": 18,
+        "G": 9,
         "E": 3,
         "P": 6,
-        "Pts": 27
+        "Pts": 30
     }, {
         "id": 3,
         "nombre": "Atlético de Madrid",
         "imagen": "https://i.ibb.co/rQ0HmB7/atm.png",
         "PJ": 16,
         "G": 10,
-        "E": 4,
+        "E": 5,
         "P": 2,
-        "Pts": 34
+        "Pts": 35
     }, {
         "id": 4,
         "nombre": "FC Barcelona",
         "imagen": "https://i.ibb.co/J3wZMHV/fcb.png",
-        "PJ": 17,
-        "G": 17,
+        "PJ": 18,
+        "G": 18,
         "E": 0,
         "P": 0,
-        "Pts": 51
+        "Pts": 54
     }, {
         "id": 5,
         "nombre": "Real Betis",
         "imagen": "https://i.ibb.co/61CsZDg/bet.png",
-        "PJ": 18,
+        "PJ": 19,
         "G": 6,
         "E": 4,
-        "P": 8,
+        "P": 9,
         "Pts": 22
     }, {
         "id": 6,
         "nombre": "Eibar",
         "imagen": "https://i.ibb.co/vPZ239h/eibar.png",
-        "PJ": 18,
-        "G": 4,
+        "PJ": 19,
+        "G": 5,
         "E": 1,
         "P": 13,
-        "Pts": 13
+        "Pts": 16
     }, {
         "id": 7,
         "nombre": "Levante UD",
         "imagen": "https://i.ibb.co/QKSWKqg/lud.png",
-        "PJ": 17,
+        "PJ": 18,
         "G": 7,
-        "E": 4,
+        "E": 5,
         "P": 6,
-        "Pts": 22
+        "Pts": 25
     }, {
         "id": 6,
         "nombre": "Madrid CFF",
         "imagen": "https://i.ibb.co/jZML2r0/mad.png",
-        "PJ": 18,
+        "PJ": 19,
         "G": 6,
         "E": 2,
-        "P": 10,
+        "P": 11,
         "Pts": 20
     }, {
         "id": 8,
         "nombre": "Rayo Vallecano",
         "imagen": "https://i.ibb.co/svwsm0f/rayo.png",
-        "PJ": 16,
+        "PJ": 17,
         "G": 1,
         "E": 2,
-        "P": 13,
+        "P": 14,
         "Pts": 5
     }, {
         "id": 9,
         "nombre": "Real Madrid",
         "imagen": "https://i.ibb.co/t831sKv/rm.png",
-        "PJ": 15,
-        "G": 7,
+        "PJ": 16,
+        "G": 8,
         "E": 2,
         "P": 6,
-        "Pts": 23
+        "Pts": 25
     }, {
         "id": 10,
         "nombre": "Real Sociedad",
         "imagen": "https://i.ibb.co/Fhm307F/real.png",
-        "PJ": 17,
-        "G": 14,
+        "PJ": 18,
+        "G": 15,
         "E": 1,
         "P": 2,
-        "Pts": 40
+        "Pts": 43
     }, {
         "id": 12,
         "nombre": "Sevilla FC",
         "imagen": "https://i.ibb.co/hf7L4wm/sev.png",
-        "PJ": 18,
+        "PJ": 19,
         "G": 7,
         "E": 6,
-        "P": 5,
+        "P": 6,
         "Pts": 27
     }, {
         "id": 13,
         "nombre": "Sporting de Huelva",
         "imagen": "https://i.ibb.co/HBxXmBm/spo.png",
-        "PJ": 18,
+        "PJ": 19,
         "G": 1,
-        "E": 9,
+        "E": 10,
         "P": 8,
-        "Pts": 12
+        "Pts": 13
     }, {
         "id": 14,
         "nombre": "UD Granadilla Tenerife",
         "imagen": "https://i.ibb.co/PhCZm7n/udt.png",
-        "PJ": 17,
-        "G": 9,
+        "PJ": 18,
+        "G": 10,
         "E": 4,
         "P": 4,
-        "Pts": 31
+        "Pts": 34
     }, {
         "id": 15,
         "nombre": "Valencia CF",
         "imagen": "https://i.ibb.co/bBfpRPH/vcf.png",
-        "PJ": 18,
+        "PJ": 19,
         "G": 4,
         "E": 2,
-        "P": 12,
+        "P": 13,
         "Pts": 14
     }, {
         "id": 16,
         "nombre": "Villareal",
         "imagen": "https://i.ibb.co/wQYbNq4/villareal.png",
-        "PJ": 18,
+        "PJ": 19,
         "G": 5,
         "E": 2,
-        "P": 11,
+        "P": 12,
         "Pts": 11
     }]
 }
