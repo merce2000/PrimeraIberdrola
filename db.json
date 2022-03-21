@@ -57,11 +57,11 @@
         "id": 7,
         "nombre": "Levante UD",
         "imagen": "https://i.ibb.co/QKSWKqg/lud.png",
-        "PJ": 22,
-        "G": 9,
+        "PJ": 23,
+        "G": 10,
         "E": 5,
         "P": 8,
-        "Pts": 32
+        "Pts": 35
     }, {
         "id": 6,
         "nombre": "Madrid CFF",
@@ -84,11 +84,11 @@
         "id": 9,
         "nombre": "Real Madrid",
         "imagen": "https://i.ibb.co/t831sKv/rm.png",
-        "PJ": 22,
-        "G": 13,
+        "PJ": 23,
+        "G": 14,
         "E": 2,
         "P": 7,
-        "Pts": 41
+        "Pts": 44
     }, {
         "id": 10,
         "nombre": "Real Sociedad",
@@ -120,10 +120,10 @@
         "id": 14,
         "nombre": "UD Granadilla Tenerife",
         "imagen": "https://i.ibb.co/PhCZm7n/udt.png",
-        "PJ": 23,
+        "PJ": 24,
         "G": 14,
         "E": 4,
-        "P": 5,
+        "P": 6,
         "Pts": 46
     }, {
         "id": 15,
@@ -138,10 +138,10 @@
         "id": 16,
         "nombre": "Villareal",
         "imagen": "https://i.ibb.co/wQYbNq4/villareal.png",
-        "PJ": 22,
+        "PJ": 23,
         "G": 7,
         "E": 2,
-        "P": 13,
+        "P": 14,
         "Pts": 23
     }]
 }
