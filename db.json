@@ -3,29 +3,29 @@
         "id": 1,
         "nombre": "Deportivo Alavés",
         "imagen": "https://i.ibb.co/5j590tt/alaves.png",
-        "PJ": 27,
+        "PJ": 28,
         "G": 8,
         "E": 6,
-        "P": 13,
+        "P": 14,
         "Pts": 30
     }, {
         "id": 2,
         "nombre": "Athletic Club",
         "imagen": "https://i.ibb.co/VBSNb8p/ath.png",
-        "PJ": 27,
-        "G": 12,
+        "PJ": 28,
+        "G": 13,
         "E": 5,
         "P": 10,
-        "Pts": 41
+        "Pts": 44
     }, {
         "id": 3,
         "nombre": "Atlético de Madrid",
         "imagen": "https://i.ibb.co/rQ0HmB7/atm.png",
-        "PJ": 27,
-        "G": 15,
+        "PJ": 28,
+        "G": 16,
         "E": 8,
         "P": 4,
-        "Pts": 53
+        "Pts": 56
     }, {
         "id": 4,
         "nombre": "FC Barcelona",
@@ -39,65 +39,65 @@
         "id": 5,
         "nombre": "Real Betis",
         "imagen": "https://i.ibb.co/61CsZDg/bet.png",
-        "PJ": 27,
+        "PJ": 28,
         "G": 7,
-        "E": 9,
+        "E": 10,
         "P": 11,
-        "Pts": 30
+        "Pts": 31
     }, {
         "id": 6,
         "nombre": "Eibar",
         "imagen": "https://i.ibb.co/vPZ239h/eibar.png",
-        "PJ": 27,
+        "PJ": 28,
         "G": 6,
-        "E": 1,
+        "E": 2,
         "P": 20,
-        "Pts": 19
+        "Pts": 20
     }, {
         "id": 7,
         "nombre": "Levante UD",
         "imagen": "https://i.ibb.co/QKSWKqg/lud.png",
-        "PJ": 27,
+        "PJ": 28,
         "G": 13,
         "E": 5,
-        "P": 9,
+        "P": 10,
         "Pts": 44
     }, {
         "id": 6,
         "nombre": "Madrid CFF",
         "imagen": "https://i.ibb.co/jZML2r0/mad.png",
-        "PJ": 27,
+        "PJ": 28,
         "G": 8,
         "E": 3,
-        "P": 16,
+        "P": 17,
         "Pts": 27
     }, {
         "id": 8,
         "nombre": "Rayo Vallecano",
         "imagen": "https://i.ibb.co/svwsm0f/rayo.png",
-        "PJ": 27,
+        "PJ": 28,
         "G": 2,
         "E": 5,
-        "P": 20,
+        "P": 21,
         "Pts": 11
     }, {
         "id": 9,
         "nombre": "Real Madrid",
         "imagen": "https://i.ibb.co/t831sKv/rm.png",
-        "PJ": 27,
-        "G": 17,
+        "PJ": 28,
+        "G": 18,
         "E": 2,
         "P": 8,
-        "Pts": 53
+        "Pts": 56
     }, {
         "id": 10,
         "nombre": "Real Sociedad",
         "imagen": "https://i.ibb.co/Fhm307F/real.png",
-        "PJ": 27,
-        "G": 19,
+        "PJ": 28,
+        "G": 20,
         "E": 2,
         "P": 6,
-        "Pts": 59
+        "Pts": 62
     }, {
         "id": 12,
         "nombre": "Sevilla FC",
@@ -111,37 +111,37 @@
         "id": 13,
         "nombre": "Sporting de Huelva",
         "imagen": "https://i.ibb.co/HBxXmBm/spo.png",
-        "PJ": 27,
-        "G": 4,
+        "PJ": 28,
+        "G": 5,
         "E": 13,
         "P": 10,
-        "Pts": 25
+        "Pts": 28
     }, {
         "id": 14,
         "nombre": "UD Granadilla Tenerife",
         "imagen": "https://i.ibb.co/PhCZm7n/udt.png",
-        "PJ": 27,
+        "PJ": 28,
         "G": 16,
         "E": 5,
-        "P": 6,
+        "P": 7,
         "Pts": 53
     }, {
         "id": 15,
         "nombre": "Valencia CF",
         "imagen": "https://i.ibb.co/bBfpRPH/vcf.png",
-        "PJ": 27,
+        "PJ": 28,
         "G": 7,
-        "E": 4,
+        "E": 5,
         "P": 16,
-        "Pts": 25
+        "Pts": 26
     }, {
         "id": 16,
         "nombre": "Villareal",
         "imagen": "https://i.ibb.co/wQYbNq4/villareal.png",
-        "PJ": 27,
+        "PJ": 28,
         "G": 7,
-        "E": 4,
+        "E": 5,
         "P": 16,
-        "Pts": 25
+        "Pts": 26
     }]
 }
