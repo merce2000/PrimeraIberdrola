@@ -30,11 +30,11 @@
         "id": 4,
         "nombre": "FC Barcelona",
         "imagen": "https://i.ibb.co/J3wZMHV/fcb.png",
-        "PJ": 27,
-        "G": 27,
+        "PJ": 28,
+        "G": 28,
         "E": 0,
         "P": 0,
-        "Pts": 81
+        "Pts": 84
     }, {
         "id": 5,
         "nombre": "Real Betis",
@@ -102,10 +102,10 @@
         "id": 12,
         "nombre": "Sevilla FC",
         "imagen": "https://i.ibb.co/hf7L4wm/sev.png",
-        "PJ": 27,
+        "PJ": 28,
         "G": 8,
         "E": 8,
-        "P": 11,
+        "P": 12,
         "Pts": 32
     }, {
         "id": 13,
