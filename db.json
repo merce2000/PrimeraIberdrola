@@ -3,145 +3,145 @@
         "id": 1,
         "nombre": "Deportivo Alavés",
         "imagen": "https://i.ibb.co/5j590tt/alaves.png",
-        "PJ": 28,
+        "PJ": 29,
         "G": 8,
         "E": 6,
-        "P": 14,
+        "P": 15,
         "Pts": 30
     }, {
         "id": 2,
         "nombre": "Athletic Club",
         "imagen": "https://i.ibb.co/VBSNb8p/ath.png",
-        "PJ": 28,
-        "G": 13,
+        "PJ": 29,
+        "G": 14,
         "E": 5,
         "P": 10,
-        "Pts": 44
+        "Pts": 47
     }, {
         "id": 3,
         "nombre": "Atlético de Madrid",
         "imagen": "https://i.ibb.co/rQ0HmB7/atm.png",
-        "PJ": 28,
-        "G": 16,
+        "PJ": 29,
+        "G": 17,
         "E": 8,
         "P": 4,
-        "Pts": 56
+        "Pts": 59
     }, {
         "id": 4,
         "nombre": "FC Barcelona",
         "imagen": "https://i.ibb.co/J3wZMHV/fcb.png",
-        "PJ": 28,
-        "G": 28,
+        "PJ": 29,
+        "G": 29,
         "E": 0,
         "P": 0,
-        "Pts": 84
+        "Pts": 87
     }, {
         "id": 5,
         "nombre": "Real Betis",
         "imagen": "https://i.ibb.co/61CsZDg/bet.png",
-        "PJ": 28,
+        "PJ": 29,
         "G": 7,
         "E": 10,
-        "P": 11,
+        "P": 12,
         "Pts": 31
     }, {
         "id": 6,
         "nombre": "Eibar",
         "imagen": "https://i.ibb.co/vPZ239h/eibar.png",
-        "PJ": 28,
+        "PJ": 29,
         "G": 6,
         "E": 2,
-        "P": 20,
+        "P": 21,
         "Pts": 20
     }, {
         "id": 7,
         "nombre": "Levante UD",
         "imagen": "https://i.ibb.co/QKSWKqg/lud.png",
-        "PJ": 28,
-        "G": 13,
+        "PJ": 29,
+        "G": 14,
         "E": 5,
         "P": 10,
-        "Pts": 44
+        "Pts": 47
     }, {
         "id": 6,
         "nombre": "Madrid CFF",
         "imagen": "https://i.ibb.co/jZML2r0/mad.png",
-        "PJ": 28,
+        "PJ": 29,
         "G": 8,
         "E": 3,
-        "P": 17,
+        "P": 18,
         "Pts": 27
     }, {
         "id": 8,
         "nombre": "Rayo Vallecano",
         "imagen": "https://i.ibb.co/svwsm0f/rayo.png",
-        "PJ": 28,
+        "PJ": 29,
         "G": 2,
         "E": 5,
-        "P": 21,
+        "P": 22,
         "Pts": 11
     }, {
         "id": 9,
         "nombre": "Real Madrid",
         "imagen": "https://i.ibb.co/t831sKv/rm.png",
-        "PJ": 28,
+        "PJ": 29,
         "G": 18,
-        "E": 2,
+        "E": 3,
         "P": 8,
-        "Pts": 56
+        "Pts": 57
     }, {
         "id": 10,
         "nombre": "Real Sociedad",
         "imagen": "https://i.ibb.co/Fhm307F/real.png",
-        "PJ": 28,
+        "PJ": 29,
         "G": 20,
-        "E": 2,
+        "E": 3,
         "P": 6,
-        "Pts": 62
+        "Pts": 63
     }, {
         "id": 12,
         "nombre": "Sevilla FC",
         "imagen": "https://i.ibb.co/hf7L4wm/sev.png",
-        "PJ": 28,
-        "G": 8,
+        "PJ": 29,
+        "G": 9,
         "E": 8,
         "P": 12,
-        "Pts": 32
+        "Pts": 35
     }, {
         "id": 13,
         "nombre": "Sporting de Huelva",
         "imagen": "https://i.ibb.co/HBxXmBm/spo.png",
-        "PJ": 28,
+        "PJ": 29,
         "G": 5,
         "E": 13,
-        "P": 10,
+        "P": 11,
         "Pts": 28
     }, {
         "id": 14,
         "nombre": "UD Granadilla Tenerife",
         "imagen": "https://i.ibb.co/PhCZm7n/udt.png",
-        "PJ": 28,
+        "PJ": 29,
         "G": 16,
-        "E": 5,
+        "E": 6,
         "P": 7,
-        "Pts": 53
+        "Pts": 54
     }, {
         "id": 15,
         "nombre": "Valencia CF",
         "imagen": "https://i.ibb.co/bBfpRPH/vcf.png",
-        "PJ": 28,
+        "PJ": 29,
         "G": 7,
-        "E": 5,
+        "E": 6,
         "P": 16,
-        "Pts": 26
+        "Pts": 27
     }, {
         "id": 16,
         "nombre": "Villareal",
         "imagen": "https://i.ibb.co/wQYbNq4/villareal.png",
-        "PJ": 28,
-        "G": 7,
+        "PJ": 29,
+        "G": 8,
         "E": 5,
         "P": 16,
-        "Pts": 26
+        "Pts": 29
     }]
 }
